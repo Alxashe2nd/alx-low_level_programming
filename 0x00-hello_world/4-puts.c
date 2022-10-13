@@ -1,6 +1,6 @@
-#include <stdio>
+#include<stdio>
 
-/** main   Printing
+/** main - Printing
  *
  * Return: Always  zero (successful)
  */
