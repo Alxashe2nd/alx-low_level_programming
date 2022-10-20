@@ -1,0 +1,10 @@
+#include "main.h"
+
+/**
+* print number - print number fro 0 - 9
+*Return: void
+*/
+
+void print_numbers(void);
+{
+
